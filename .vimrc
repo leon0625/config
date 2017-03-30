@@ -55,3 +55,14 @@ map! <2-LeftMouse> <c-o>*N
 "ctrl+鼠标左键跳转
 map <C-LeftMouse> <C-]>
 map! <C-LeftMouse> <Esc><C-]>
+
+"设置gui打开时最大化
+if has("gui_running")
+    set lines=100 columns=200
+endif
+
+
+
+
+
+
