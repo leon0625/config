@@ -1,0 +1,23 @@
+[Names]
+name0=ANSI Colors on Black love
+count=1
+[ANSI Colors on Black love]
+text=ffffff
+cyan(bold)=00ffff
+text(bold)=808080
+magenta=ff53ff
+green=00c000
+green(bold)=00ff00
+background=400040
+cyan=00c0c0
+red(bold)=ff0000
+yellow=c0c000
+magenta(bold)=a800a8
+yellow(bold)=ffff00
+red=c00000
+white=c0c0c0
+blue(bold)=0080c0
+white(bold)=ffffff
+black=3e3e3e
+blue=004080
+black(bold)=808080
